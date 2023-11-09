@@ -2,7 +2,7 @@ Welcome to my GitHub! I'm Aaran Lawing, an aspiring Software Engineer with a pas
 
 ## About Me
 
-- 👨‍💻 Currently working on Discord-Bot.
+- 👨‍💻 Currently working on [Discord-Bot](https://github.com/aaranl/Discord-Bot).
 - 🎓 Studying at University of North Carolina - Charlotte for a BS in Computer Science.
 - 🌱 Learning CI/CD Pipeline.
 📫 How to reach me: [Aaran Lawing](mailto:lawingaaran@gmail.com) or reach out to me on [LinkedIn](https://www.linkedin.com/in/aaran-lawing-5971a625a/).
@@ -24,7 +24,7 @@ Welcome to my GitHub! I'm Aaran Lawing, an aspiring Software Engineer with a pas
 ## Find Me Around the Web 🌎
 
 - Professional network: [LinkedIn profile](https://www.linkedin.com/in/aaran-lawing-5971a625a/)
-- Portfolio: [Portfolio Website](https://ezbake.xyz/)
+- Discord-Bot: [Landing Page](https://ezbake.xyz/)
 
 Feel free to explore my repositories and don't hesitate to reach out if you think I'd be a good fit for your team!
 

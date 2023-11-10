@@ -11,10 +11,21 @@ Welcome to my GitHub! I'm Aaran Lawing, an aspiring Software Engineer with a pas
 ## My Work
 
 ### [Discord Bot]
-[Short description] - [Technologies used]
+- Created a versatile Discord bot using JavaScript, harnessing the Discord.js library for seamless integration
+with the Discord platform.
+- Designed and developed a user-friendly frontend website that simplifies the process of adding the bot to
+Discord servers using Express.js and React.js.
+- Ensured smooth integration between the frontend and Discord API, allowing users to easily authenticate
+and add the bot to their Discord servers.
+
 
 ### [Computer Vision Tracker]
-[Short description] - [Technologies used]
+- Developed a computer vision software application in Java that utilizes advanced image processing
+techniques to track a specific icon on a map.
+- Implemented real-time tracking capabilities, allowing the software to continuously monitor and follow
+the designated icon's movement on the map.
+- Employed robust computer vision algorithms, such as template matching, to accurately detect and track
+the icon under various conditions.
 
 ## Skills
 - Languages: [Proficient] Javascript, Java | [Familiar] HTML/CSS, SQL, C.

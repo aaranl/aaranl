@@ -2,9 +2,9 @@ Welcome to my GitHub! I'm Aaran Lawing, an aspiring Software Engineer with a pas
 
 ## About Me
 
-- 👨‍💻 Currently working on [Discord-Bot](https://github.com/aaranl/Discord-Bot).
+- 👨‍💻 Currently working on [Predator_v_Prey-Bot](https://github.com/aaranl/Predator_v_Prey_Simulation).
 - 🎓 Studying at University of North Carolina - Charlotte for a BS in Computer Science.
-- 🌱 Learning CI/CD Pipeline.
+- 🌱 Learning ML/Deep Learning.
 - 📫 How to reach me: [Aaran Lawing](mailto:lawingaaran@gmail.com) or reach out to me on [LinkedIn](https://www.linkedin.com/in/aaran-lawing-5971a625a/).
 
 
@@ -28,7 +28,7 @@ the designated icon's movement on the map.
 the icon under various conditions.
 
 ## Skills
-- Languages: [Proficient] Javascript, Java | [Familiar] HTML/CSS, SQL, C.
+- Languages: [Proficient] Javascript, Java. Python | [Familiar] HTML/CSS, mySQL, C.
 - Frameworks: Node, React, Discord, Express, Angular
 - Tools: Git, Linux, Windows, Docker, AWS.
 

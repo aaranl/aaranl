@@ -2,7 +2,7 @@ Welcome to my GitHub! I'm Aaran Lawing, an aspiring Software Engineer with a pas
 
 ## About Me
 
-- 👨‍💻 Currently working on [Predator_v_Prey-Bot](https://github.com/aaranl/Predator_v_Prey_Simulation).
+- 👨‍💻 Currently working on private repository.
 - 🎓 Studying at University of North Carolina - Charlotte for a BS in Computer Science.
 - 🌱 Learning ML/Deep Learning.
 - 📫 How to reach me: [Aaran Lawing](mailto:lawingaaran@gmail.com) or reach out to me on [LinkedIn](https://www.linkedin.com/in/aaran-lawing-5971a625a/).

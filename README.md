@@ -1,10 +1,10 @@
-Welcome to my GitHub! I'm Aaran Lawing, an aspiring Software Engineer with a passion for Machine Learning and Automation.
+Welcome to my GitHub! I'm Aaran Lawing, an aspiring Software Engineer with a passion for AI/Machine Learning and Automation.
 
 ## About Me
 
-- 👨‍💻 Currently working on private repository.
+- 👨‍💻 Currently working on Superpermutations using ACO
 - 🎓 Studying at University of North Carolina - Charlotte for a BS in Computer Science.
-- 🌱 Learning ML/Deep Learning.
+- 🌱 Extending my knowledge in AI/ML.
 - 📫 How to reach me: [Aaran Lawing](mailto:lawingaaran@gmail.com) or reach out to me on [LinkedIn](https://www.linkedin.com/in/aaran-lawing-5971a625a/).
 
 
@@ -28,14 +28,13 @@ the designated icon's movement on the map.
 the icon under various conditions.
 
 ## Skills
-- Languages: [Proficient] Javascript, Java. Python | [Familiar] HTML/CSS, mySQL, C.
-- Frameworks: Node, React, Discord, Express, Angular
+- Languages: [Proficient] Javascript, Java, Python | [Familiar] HTML/CSS, mySQL, C, C++
+- Frameworks: Node, React, Discord, Express, Angular, Pytorch
 - Tools: Git, Linux, Windows, Docker, AWS.
 
 ## Find Me Around the Web 🌎
 
 - Professional network: [LinkedIn profile](https://www.linkedin.com/in/aaran-lawing-5971a625a/)
-- Discord-Bot: [Landing Page](https://ezbake.xyz/)
 
 Feel free to explore my repositories and don't hesitate to reach out if you think I'd be a good fit for your team!
 

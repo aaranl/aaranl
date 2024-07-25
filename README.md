@@ -21,8 +21,8 @@ Welcome to my GitHub profile. I am a dedicated Computer Science student at the U
 
 ## Technical Proficiencies
 ### Languages
-Proficient: JavaScript, Java, Python
-Familiar: HTML/CSS, MySQL, C, C++
+- Proficient: JavaScript, Java, Python
+- Familiar: HTML/CSS, MySQL, C, C++
 
 ### Frameworks & Libraries
 - Node.js, React.js, Discord.js, Express.js, Angular, PyTorch
